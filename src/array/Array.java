@@ -29,6 +29,7 @@ public class Array {
         {
             System.out.print(s+" ");
         }
+        System.out.println(Arrays.toString(str));
 
     }
 
